@@ -1,0 +1,19 @@
+p {
+    color: blue;
+}
+
+p.second {
+    color: chocolate;
+}
+
+div > strong {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover {
+    color: darkgreen;
+}
+
+#intro {
+    background-color: coral;
+}
